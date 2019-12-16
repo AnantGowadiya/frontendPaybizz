@@ -1,0 +1,38 @@
+input {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid blue;
+}
+.footerclass {
+    background-color: #263238;
+    color: #ffffff;
+    position: fixed; 
+    width: 100%;
+    bottom: 0;
+}
+.headerclass{
+        background-color: #263238;
+        color: #ffffff;
+        /* position: fixed; */
+        width: 100%;
+        top: 0;
+
+}
+a:link {
+    color: #ffffff;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #ffffff;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #56b7cf;
+  }
+
+.textalignfoot {
+    text-align: right;
+    margin-right: 3%
+}
