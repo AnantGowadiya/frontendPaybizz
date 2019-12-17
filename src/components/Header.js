@@ -5,11 +5,7 @@ import 'bootstrap/dist/js/bootstrap.js';
 import logo from "../assets/logo.png";
 import profile from "../assets/profile.png";
 
-
-
 export default function Header() {
-
-
     return (
         <nav class="navbar" style={{background:"#304048"}}>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>

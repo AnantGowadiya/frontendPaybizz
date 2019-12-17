@@ -6,7 +6,7 @@ input {
 .footerclass {
     background-color: #263238;
     color: #ffffff;
-    position: fixed; 
+    /* position: fixed;  */
     width: 100%;
     bottom: 0;
 }
